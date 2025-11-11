@@ -102,4 +102,7 @@ Database memiliki hubungan **one-to-many**:
 
 ## Dokumentasi
 
-![Dokumentasi](Dokumentasi%20TP7.mp4)    
+<video width="600" controls>
+  <source src="Dokumentasi%20TP7.mp4" type="video/mp4">
+  Browser kamu tidak mendukung video tag.
+</video>
